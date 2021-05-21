@@ -1,0 +1,38 @@
+#egész{
+    text-align: justify;
+    background-color: rgba(211, 211, 211, 0);
+    margin: auto;
+}
+
+body{
+    background-image: url(menacing.jpg);
+}
+
+table{
+    margin-left: 20px;
+}
+
+#eredmény{
+    margin-left: 20px;
+}
+
+#szereplők{
+    margin: 10px;
+}
+
+.hatter{
+    background-color: rgba(219, 219, 219, 0.8);
+}
+
+.hatter:hover{
+    background-color: rgba(219, 219, 219, 0.85);
+}
+
+.szerző{
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+h1, h2{
+    font-weight: bold;
+}
